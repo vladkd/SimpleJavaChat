@@ -1,5 +1,4 @@
 - Fix Client's send button action listener, so it executes on the UI thread to allow automatic scrolling
 - Server needs to be able to run without GUI or without CLI.
-- Start github?
 - Wrapper for mac osx?
 - Android version
